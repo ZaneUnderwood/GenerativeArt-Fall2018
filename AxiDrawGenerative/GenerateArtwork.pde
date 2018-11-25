@@ -3,20 +3,13 @@ void makeShapes(float startX, float startY, int shapeCount) {
   int shapeNumber = 0;
   while(shapeNumber < shapeCount) 
   {
+    // Change this
     //makeRectangle(startX,startY);
     //makeTriangle(startX, startY, 30);
     //makeCircle(startX+random(-20,20), startY+random(-20,20),50);
     makeCircle(startX, startY, 50);
+    
     shapeNumber++;
-  }
-}
-
-void makeRectangles(float startX, float startY, int rectangleCount) {
-  int rectangleNumber = 0;
-  while(rectangleNumber < rectangleCount) 
-  {
-    makeRectangle(startX+random(-20,20), startY+random(-20,20));
-    rectangleNumber++;
   }
 }
 
@@ -26,6 +19,7 @@ void makeShapeGrid(int rowCount, int columnCount, int numShapes) {
   float xPos = firstX;
   float yPos = firstY;
   
+  // Change this
   int spacerSize = 90;
   
   int rowNumber = 0;
@@ -71,6 +65,8 @@ void generateArtwork()
   
   dropPen();
  
+ // Change this
+ // these numbers effect the grid size and number of shapes drawn
   makeShapeGrid(4,4,7);
  
 }

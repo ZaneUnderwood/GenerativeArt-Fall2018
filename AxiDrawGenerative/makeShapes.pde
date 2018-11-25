@@ -1,3 +1,4 @@
+// Change this
 void makeRectangle(float x, float y) {
   // change these to effect how far apart rectangles can be drawn
   float minDist = -20; 
@@ -43,6 +44,7 @@ void makeRectangle(float x, float y) {
    raisePen();
 }
 
+// Change this
 void makeTriangle(float x, float y, float range) {
    // change these to effect how far apart rectangles can be drawn
   float minDist = -20; 
@@ -100,6 +102,7 @@ void makeTriangle(float x, float y, float range) {
 ArrayList<PVector> circlePoints;  //used to hold onto points for a circle that will be drawn
 void findCirclePoints(float startX, float startY, float size) {
   circlePoints.clear();
+  // Change this
   for(float i = 0; i<PI; i+=PI/36) {
     float tx = size*cos(i)*cos(i) + startX;
     float ty = size*cos(i)*sin(i) + startY;
@@ -107,8 +110,8 @@ void findCirclePoints(float startX, float startY, float size) {
     //println(circlePoints.get(0).x);  // debugging
   }
 }
- 
-//  makeCircle(startX+random(-20,20), startY+random(-20,20),50);
+
+// Change this
 void makeCircle(float x, float y, float size) {
  // change these to effect how far apart circles can be drawn
   float minDist = -20; 

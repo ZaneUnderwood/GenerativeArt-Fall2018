@@ -12,7 +12,9 @@
 import de.looksgood.ani.*;
 import processing.serial.*;
 
+
 Randomizer randomizer; // used to generate Perlin randomness
+// Change this
 float perlinDelta = 2.7; // change this to change random behavior of perlin object
 
 // User Settings: 
@@ -626,6 +628,7 @@ void mousePressed() {
   if ((mouseX >= MousePaperLeft) && (mouseX <= MousePaperRight) && (mouseY >= MousePaperTop) && (mouseY <= MousePaperBottom))
   { 
 
+    // Change this
     generateArtwork();
 
     doHighlightRedraw = true;
