@@ -4,6 +4,7 @@
 Create a piece of Generative Art by making edits/additions to code provided in this repository. Watch the <a href="https://youtu.be/gdj1JsCUcOU">video </a> to get started.
 
 Learn more about Perlin noise <a href="https://www.youtube.com/watch?v=8ZEMLCnn8v0">here.</a>
+Learn more about how nested while loops generate grids <a href="https://youtu.be/zi0TCLDQERY"> here.</a>
 
 See example below:
 
