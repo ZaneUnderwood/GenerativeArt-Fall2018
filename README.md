@@ -13,7 +13,7 @@ Example:
 
 ## Assignment Steps
 
-1. Watch the <a href="https://youtu.be/gdj1JsCUcOU">video </a> to get started.
+1. Watch the <a href="https://youtu.be/gdj1JsCUcOU">video </a> to get started. Be sure to have your sound on. Do not rely on YouTube captions.
 
 ## More information about how the code works... if you are curious =)
 
