@@ -5,6 +5,10 @@
 ## Assignment Description
 Create a piece of Generative Art by making edits/additions to code provided in this repository. We will take each student's creation and put it on the wall with other other creations. 
 
+<br />
+
+Example:
+
 <img src="https://raw.githubusercontent.com/riverpointacademy/GenerativeArt-Fall2018/master/Grid.png"/> 
 
 ## Assignment Steps
