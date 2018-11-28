@@ -11,9 +11,12 @@ Example:
 
 <img src="https://raw.githubusercontent.com/riverpointacademy/GenerativeArt-Fall2018/master/Grid.png"/> 
 
-## Assignment Steps
 
-1. Watch the <a href="https://youtu.be/gdj1JsCUcOU">video </a> to get started. Be sure to have your sound on. Do not rely on YouTube captions.
+## Assignment Steps (UPDATED! -- Thanks Devin)
+
+1. Install the "Ani" library in Processing:
+<img src="https://raw.githubusercontent.com/riverpointacademy/GenerativeArt-Fall2018/master/InstallAni.gif"/> 
+2. Watch the <a href="https://youtu.be/gdj1JsCUcOU">video </a> to get started. Be sure to have your sound on. Do not rely on YouTube captions.
 
 ## More information about how the code works... if you are curious =)
 
