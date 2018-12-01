@@ -3,7 +3,7 @@
 
 
 ## Assignment Description
-Create a piece of Generative Art by making edits/additions to code provided in this repository. We will take each student's creation and put it on the wall with other other creations. 
+Create a piece of Generative Art by making edits/additions to code provided in this repository. We will take each student's creation and put it on the wall with the other creations. 
 
 <br />
 
